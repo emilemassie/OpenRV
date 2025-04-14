@@ -23,6 +23,7 @@ Open RV is high-performant, hardware accelerated, and pipeline-friendly.
 ### Blackmagicdesign&reg; Video Output Support (Optional)
 
 Download the Blackmagicdesign&reg; SDK to add Blackmagicdesign&reg; output capability to Open RV (optional): https://www.blackmagicdesign.com/desktopvideo_sdk<br>
+
 Then set RV_DEPS_BMD_DECKLINK_SDK_ZIP_PATH to the path of the downloaded zip file on the rvcfg line.<br>
 Example:
 ```bash
