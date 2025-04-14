@@ -12,6 +12,7 @@
   <a href="http://www.vfxplatform.com/">
     <img src="https://img.shields.io/badge/vfx%20platform-2023-lightgrey.svg" alt="Supported VFX Platform Versions" />
   </a><a href="https://aswf-openrv.readthedocs.io/en/latest"><img src="https://readthedocs.org/projects/aswf-openrv/badge/?version=latest" alt="Documentation Status" /></a>
+  [Open RV Documentation on Read the Docs](https://aswf-openrv.readthedocs.io/en/latest/)
 </p>
 
 ## Overview
