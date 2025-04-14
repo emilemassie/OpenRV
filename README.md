@@ -1,12 +1,21 @@
 # Open RV
 ---
-[![Open RV](docs/images/OpenRV_icon.png)](https://github.com/AcademySoftwareFoundation/OpenRV.git)
+<p align="center">
+  <a href="https://github.com/AcademySoftwareFoundation/OpenRV.git">
+    <img src="docs/images/OpenRV_icon.png" alt="Open RV Icon" />
+  </a>
+</p>
+
 ---
-
-![Supported Versions](https://img.shields.io/badge/python-3.10-blue)
-[![Supported VFX Platform Versions](https://img.shields.io/badge/vfx%20platform-2023-lightgrey.svg)](http://www.vfxplatform.com/)
-[![docs](https://readthedocs.org/projects/aswf-openrv/badge/?version=latest)](https://aswf-openrv.readthedocs.io/en/latest)
-
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3.10-blue" alt="Supported Versions" />
+  <a href="http://www.vfxplatform.com/">
+    <img src="https://img.shields.io/badge/vfx%20platform-2023-lightgrey.svg" alt="Supported VFX Platform Versions" />
+  </a>
+  <a href="https://aswf-openrv.readthedocs.io/en/latest">
+    <img src="https://readthedocs.org/projects/aswf-openrv/badge/?version=latest" alt="docs" />
+  </a>
+</p>
 ## Overview
 
 Open RV is an image and sequence viewer for VFX and animation artists.
