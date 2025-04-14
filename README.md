@@ -20,7 +20,7 @@ Open RV is high-performant, hardware accelerated, and pipeline-friendly.
 
 
 
-### Blackmagicdesign&reg; Video Output Support (Optional)
+## Blackmagicdesign&reg; Video Output Support (Optional)
 
 Download the Blackmagicdesign&reg; SDK to add Blackmagicdesign&reg; output capability to Open RV (optional): https://www.blackmagicdesign.com/desktopvideo_sdk<br>
 
@@ -30,7 +30,7 @@ Example:
 rvcfg -DRV_DEPS_BMD_DECKLINK_SDK_ZIP_PATH='<downloads_path>/Blackmagic_DeckLink_SDK_14.1.zip'
 ```
 
-### NDI&reg; Video Output Support (Optional)
+## NDI&reg; Video Output Support (Optional)
 
 Download and install the NDI&reg; SDK to add NDI&reg; output capability to Open RV (optional): https://ndi.video/<br>
 This must be done before the `configure` step.
