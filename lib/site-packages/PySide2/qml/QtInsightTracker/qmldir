@@ -1,0 +1,5 @@
+module QtInsightTracker
+plugin insighttrackerqmlplugin
+classname QtInsightTrackerPlugin
+typeinfo plugins.qmltypes
+prefer :/qt-project.org/imports/QtInsightTracker/

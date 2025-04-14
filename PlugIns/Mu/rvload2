@@ -1,0 +1,46 @@
+4
+annot_tools,annot_tools-0.1.rvpkg,Tools/Annotation Tools,nil,nil,true,true,7.5.0,true,1.0.0
+annotate_mode,annotate-1.16.rvpkg,Tools/Annotation,F10,key-down--f10,false,false,3.12.15,false,1.0.0
+channel_select,channel_select-1.3.rvpkg,nil,nil,nil,true,true,4.0.8,true,1.0.0
+collapse_missing_frames,collapse_missing_frames-1.2.rvpkg,nil,nil,nil,true,true,6.0,true,1.0.0
+custom_lut_menu_mode,custom_lut_menu_mode-2.9.rvpkg,nil,nil,nil,true,true,4.0.12,true,1.0.0
+custom_mattes,custom_mattes-2.3.rvpkg,nil,nil,nil,true,true,4.0.7,true,1.0.0
+data_display_indicator_mode,data_display_indicators-1.2.rvpkg,View/EXR Data and Display Indicators,nil,nil,false,false,4.0.11,true,1.0.0
+doc_browser,doc_browser-1.4.rvpkg,nil,nil,nil,false,false,7.5.0,false,1.0.0
+export_cuts,export_cuts-1.5.rvpkg,nil,nil,nil,true,true,3.10.9,true,1.0.0
+lat_long_viewer,lat_long_viewer-1.2.rvpkg,nil,nil,nil,true,true,6.0.1,true,1.0.0
+layer_select_mode,layer_select-1.7.rvpkg,Tools/Layer Selector,/,key-down--/,false,false,4.0.7,true,1.0.0
+maya_tools,maya_tools-1.6.rvpkg,nil,nil,nil,true,true,3.12.15,true,1.0.0
+missing_frame_bling_mode,missing_frame_bling-1.7.rvpkg,nil,nil,nil,true,true,3.10.9,true,1.0.0
+multiple_source_media_rep,multiple_source_media_rep-1.3.rvpkg,nil,nil,nil,true,true,2023.0.0,false,1.0.0
+node_graph_viz,node_graph_viz-0.1.rvpkg,Tools/Node Graph Viz,nil,nil,true,true,7.5.0,true,1.0.1
+ocio_source_setup,ocio_source_setup-2.5.rvpkg,nil,nil,nil,true,true,4.0,true,1.0.0
+openrv_help_menu_mode,openrv_help_menu-1.0.rvpkg,nil,nil,nil,true,true,2024.0.0,false,1.0.0
+os_dependent_path_conversion_mode,os_dependent_path_conversion_mode-1.7.rvpkg,nil,nil,nil,true,true,4.0.7,true,1.0.0
+otio_reader_plugin,otio_reader-1.1.rvpkg,nil,nil,nil,true,true,4.0.8,false,1.0.0
+otio_reader,otio_reader-1.1.rvpkg,nil,nil,nil,false,false,4.0.8,false,1.0.0
+otio_writer,otio_reader-1.1.rvpkg,nil,nil,nil,false,false,4.0.8,false,1.0.0
+pyhello,pyhello-1.2.rvpkg,Tools/PYHELLO,nil,nil,true,true,3.12.9,true,1.0.0
+pymystuff,pymystuff-1.2.rvpkg,nil,nil,nil,true,true,3.12,true,1.0.0
+pyside_example,pyside_example-1.2.rvpkg,Tools/PySide Example,nil,nil,true,true,6.2.4,true,1.0.0
+rvnuke_mode,rvnuke-1.12.rvpkg,Tools/Nuke,nil,nil,false,false,4.0.12,true,1.0.0
+scrub_offset,scrub_offset-1.6.rvpkg,Edit/Scrub Range Offset,O,key-down--O,false,false,3.12.15,true,1.0.0
+file_sequence_mode,sequence_from_file-1.4.rvpkg,File/Options/One File → Sequence,nil,nil,true,true,3.10.9,true,1.0.0
+session_manager,session_manager-1.9.rvpkg,Tools/Session Manager,x,key-down--x,false,false,3.12.15,false,1.0.0
+StackGroup_edit_mode,session_manager-1.9.rvpkg,nil,nil,nil,false,false,3.12.15,false,1.0.0
+SwitchGroup_edit_mode,session_manager-1.9.rvpkg,nil,nil,nil,false,false,3.12.15,false,1.0.0
+FolderGroup_edit_mode,session_manager-1.9.rvpkg,nil,nil,nil,false,false,3.12.15,false,1.0.0
+Stack_edit_mode,session_manager-1.9.rvpkg,nil,nil,nil,false,false,3.12.15,false,1.0.0
+Switch_edit_mode,session_manager-1.9.rvpkg,nil,nil,nil,false,false,3.12.15,false,1.0.0
+Composite_edit_mode,session_manager-1.9.rvpkg,nil,nil,nil,false,false,3.12.15,false,1.0.0
+SequenceGroup_edit_mode,session_manager-1.9.rvpkg,nil,nil,nil,false,false,3.12.15,false,1.0.0
+SourceGroup_edit_mode,session_manager-1.9.rvpkg,nil,nil,nil,false,false,3.12.15,false,1.0.0
+LayoutGroup_edit_mode,session_manager-1.9.rvpkg,nil,nil,nil,false,false,3.12.15,false,1.0.0
+RetimeGroup_edit_mode,session_manager-1.9.rvpkg,nil,nil,nil,false,false,3.12.15,false,1.0.0
+transform_manip,session_manager-1.9.rvpkg,nil,nil,nil,false,false,3.12.15,false,1.0.0
+source_setup,source_setup-4.3.rvpkg,nil,nil,nil,true,true,4.0,false,1.0.0
+stereo_autoload,stereo_autoload-1.6.rvpkg,nil,nil,nil,true,true,3.12.18,true,1.0.0
+stereo_disassembly,stereo_disassembly-1.3.rvpkg,nil,nil,nil,true,true,6.0.1,true,1.0.0
+sync_mode,sync-1.4.rvpkg,nil,nil,nil,true,true,2021.0.2,false,1.0.0
+webview2,webview2-0.3.rvpkg,Tools/WebView 2,nil,nil,false,false,6.2.4,true,1.0.0
+window_title,window_title-1.6.rvpkg,nil,nil,nil,true,true,3.12.10,false,1.0.0

@@ -1,0 +1,3 @@
+opentimelineio
+opentimelineio_contrib
+opentimelineview
